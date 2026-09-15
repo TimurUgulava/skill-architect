@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="855" viewBox="0 0 1600 855" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs>
+<marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 z" fill="#3a3a3a"/></marker>
+<marker id="ao" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 z" fill="#FE9901"/></marker>
+</defs>
+<rect width="1600" height="855" fill="#ffffff"/>
+<rect x="50" y="216" width="180" height="90" rx="14" fill="#ffffff" stroke="#3a3a3a" stroke-width="2.2"/>
+<text x="140.0" y="263.0" text-anchor="middle" font-size="23" font-weight="600" fill="#1a1a1a">Запрос</text>
+<text x="140.0" y="299" text-anchor="middle" font-size="16" fill="#555">«нужен ассистент…»</text>
+<line x1="230" y1="261" x2="256" y2="261" stroke="#3a3a3a" stroke-width="2.6" marker-end="url(#a)"/>
+<polygon points="390,179 505,261 390,343 275,261" fill="#fff4e0" stroke="#FE9901" stroke-width="3"/>
+<text x="390" y="243" text-anchor="middle" font-size="16" font-weight="700" fill="#1a1a1a">Шаг 0</text>
+<text x="390" y="269" text-anchor="middle" font-size="17" fill="#1a1a1a">нужен ли</text>
+<text x="390" y="293" text-anchor="middle" font-size="17" fill="#1a1a1a">скилл?</text>
+<line x1="505" y1="261" x2="536" y2="261" stroke="#3a3a3a" stroke-width="2.6" marker-end="url(#a)"/>
+<text x="520" y="248" text-anchor="middle" font-size="16" fill="#555">да</text>
+<rect x="550" y="200" width="232" height="122" rx="14" fill="#ffffff" stroke="#3a3a3a" stroke-width="2.2"/>
+<text x="666.0" y="228" text-anchor="middle" font-size="14" font-weight="700" fill="#FE9901">ШАГ 1</text>
+<text x="666.0" y="256" text-anchor="middle" font-size="22" font-weight="600" fill="#1a1a1a">Разобраться</text>
+<text x="666.0" y="283" text-anchor="middle" font-size="16" fill="#555">вопросы только</text>
+<text x="666.0" y="305" text-anchor="middle" font-size="16" fill="#555">по развилкам</text>
+<line x1="782" y1="261" x2="816" y2="261" stroke="#3a3a3a" stroke-width="2.6" marker-end="url(#a)"/>
+<rect x="818" y="200" width="232" height="122" rx="14" fill="#fff9f0" stroke="#FE9901" stroke-width="3"/>
+<text x="934.0" y="228" text-anchor="middle" font-size="14" font-weight="700" fill="#FE9901">ШАГ 2</text>
+<text x="934.0" y="256" text-anchor="middle" font-size="22" font-weight="600" fill="#1a1a1a">Процесс</text>
+<text x="934.0" y="283" text-anchor="middle" font-size="16" fill="#555">карта работы,</text>
+<text x="934.0" y="305" text-anchor="middle" font-size="16" fill="#555">«готово, когда»</text>
+<line x1="1050" y1="261" x2="1084" y2="261" stroke="#3a3a3a" stroke-width="2.6" marker-end="url(#a)"/>
+<rect x="1086" y="200" width="232" height="122" rx="14" fill="#fff9f0" stroke="#FE9901" stroke-width="3"/>
+<text x="1202.0" y="228" text-anchor="middle" font-size="14" font-weight="700" fill="#FE9901">ШАГ 3</text>
+<text x="1202.0" y="256" text-anchor="middle" font-size="22" font-weight="600" fill="#1a1a1a">Устройство</text>
+<text x="1202.0" y="283" text-anchor="middle" font-size="16" fill="#555">дерево файлов,</text>
+<text x="1202.0" y="305" text-anchor="middle" font-size="16" fill="#555">защитные зоны</text>
+<text x="1001.0" y="66" text-anchor="middle" font-size="17" font-weight="600" fill="#FE9901">три точки остановки: здесь скилл ждёт автора</text>
+<circle cx="800.0" cy="140" r="9" fill="#FE9901"/><text x="800.0" y="119" text-anchor="middle" font-size="15" fill="#1a1a1a">развилки</text><line x1="800.0" y1="149" x2="800.0" y2="194" stroke="#FE9901" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="934.0" cy="140" r="9" fill="#FE9901"/><text x="934.0" y="119" text-anchor="middle" font-size="15" fill="#1a1a1a">карта работы</text><line x1="934.0" y1="149" x2="934.0" y2="194" stroke="#FE9901" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="1202.0" cy="140" r="9" fill="#FE9901"/><text x="1202.0" y="119" text-anchor="middle" font-size="15" fill="#1a1a1a">устройство</text><line x1="1202.0" y1="149" x2="1202.0" y2="194" stroke="#FE9901" stroke-width="2" stroke-dasharray="4 4"/>
+<line x1="390" y1="343" x2="390" y2="527" stroke="#3a3a3a" stroke-width="2.6" marker-end="url(#a)"/>
+<text x="376" y="411" text-anchor="end" font-size="16" fill="#555">модель справится сама</text>
+<rect x="200" y="565" width="380" height="92" rx="14" fill="#ffffff" stroke="#3a3a3a" stroke-width="2.2"/>
+<text x="390.0" y="613.0" text-anchor="middle" font-size="22" font-weight="600" fill="#1a1a1a">Скилл не нужен</text>
+<text x="390.0" y="648" text-anchor="middle" font-size="16" fill="#555">строка в CLAUDE.md, скрипт или ничего</text>
+<path d="M1318,322 L1318,523 L816.0,523 L816.0,561" fill="none" stroke="#3a3a3a" stroke-width="2.6" marker-end="url(#a)"/>
+<rect x="700" y="565" width="232" height="122" rx="14" fill="#ffffff" stroke="#3a3a3a" stroke-width="2.2"/>
+<text x="816.0" y="593" text-anchor="middle" font-size="14" font-weight="700" fill="#FE9901">ШАГ 4</text>
+<text x="816.0" y="621" text-anchor="middle" font-size="22" font-weight="600" fill="#1a1a1a">Собрать</text>
+<text x="816.0" y="648" text-anchor="middle" font-size="16" fill="#555">маршрутизатор,</text>
+<text x="816.0" y="670" text-anchor="middle" font-size="16" fill="#555">ветви, скрипты</text>
+<line x1="932" y1="626" x2="966" y2="626" stroke="#3a3a3a" stroke-width="2.6" marker-end="url(#a)"/>
+<rect x="968" y="565" width="232" height="122" rx="14" fill="#ffffff" stroke="#3a3a3a" stroke-width="2.2"/>
+<text x="1084.0" y="593" text-anchor="middle" font-size="14" font-weight="700" fill="#FE9901">ШАГ 5</text>
+<text x="1084.0" y="621" text-anchor="middle" font-size="22" font-weight="600" fill="#1a1a1a">Проверить</text>
+<text x="1084.0" y="648" text-anchor="middle" font-size="16" fill="#555">чистый контекст,</text>
+<text x="1084.0" y="670" text-anchor="middle" font-size="16" fill="#555">слепой судья</text>
+<line x1="1200" y1="626" x2="1234" y2="626" stroke="#3a3a3a" stroke-width="2.6" marker-end="url(#a)"/>
+<rect x="1236" y="565" width="232" height="122" rx="14" fill="#ffffff" stroke="#3a3a3a" stroke-width="2.2"/>
+<text x="1352.0" y="593" text-anchor="middle" font-size="14" font-weight="700" fill="#FE9901">ШАГ 6</text>
+<text x="1352.0" y="621" text-anchor="middle" font-size="22" font-weight="600" fill="#1a1a1a">Отдать</text>
+<text x="1352.0" y="648" text-anchor="middle" font-size="16" fill="#555">что проверено,</text>
+<text x="1352.0" y="670" text-anchor="middle" font-size="16" fill="#555">что нет</text>
+<path d="M1352.0,687 L1352.0,795 L1060,795" fill="none" stroke="#FE9901" stroke-width="2.6" stroke-dasharray="7 6" marker-end="url(#ao)"/>
+<rect x="640" y="755" width="420" height="80" rx="14" fill="#fff9f0" stroke="#FE9901" stroke-width="3"/>
+<text x="850.0" y="797.0" text-anchor="middle" font-size="21" font-weight="600" fill="#1a1a1a">Калибровка и ревизия</text>
+<text x="850" y="817" text-anchor="middle" font-size="15" fill="#555">ваши правки копятся и возвращаются в скилл</text>
+<path d="M640,795 L630,795 L630,338" fill="none" stroke="#FE9901" stroke-width="2.6" stroke-dasharray="7 6"/>
+<line x1="630" y1="338" x2="630" y2="318" stroke="#FE9901" stroke-width="2.6" stroke-dasharray="7 6" marker-end="url(#ao)"/>
+</svg>
