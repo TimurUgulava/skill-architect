@@ -105,6 +105,13 @@ def main():
             if SECRET.search(line):
                 problems.append(f"{rel}:{i}: похоже на секрет в тексте скилла")
 
+    # 6. рабочая папка живой карты не должна уехать в git собранного скилла
+    if os.path.isdir(os.path.join(root, ".architect")):
+        gi = os.path.join(root, ".gitignore")
+        ignored = os.path.isfile(gi) and re.search(r"^\.architect/?\s*$", read(gi), re.M)
+        if not ignored:
+            problems.append("есть .architect/ (карта работы), но её нет в .gitignore скилла — карта и журнал уедут в репозиторий")
+
     for p in problems:
         print(f"  [чинить] {p}")
     for n in notes:
